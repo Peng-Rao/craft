@@ -1,0 +1,6 @@
+[submodule "craft_frontend"]
+	path = craft_frontend
+	url = https://github.com/Raopend/craft_frontend.git
+[submodule "craft_backend"]
+	path = craft_backend
+	url = https://github.com/Raopend/craft_backend.git
